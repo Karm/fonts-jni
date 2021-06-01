@@ -8,3 +8,5 @@ combined/dependency-reduced-pom.xml
 *.so
 *.bmp
 *.build_artifacts.txt
+fonts-1.0
+java/src/main/resources/META-INF/native-image
