@@ -1,0 +1,10 @@
+*.idea
+*.iml
+*/target/*
+release.properties
+target
+combined/dependency-reduced-pom.xml
+.DS_Store
+*.so
+*.bmp
+*.build_artifacts.txt
